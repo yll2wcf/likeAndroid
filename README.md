@@ -129,6 +129,18 @@
 ## 联网相关
 [Android网络请求心路历程](http://www.jianshu.com/p/3141d4e46240)
 
+## 自定义控件
+[Android圆形图片自定义控件](http://www.open-open.com/lib/view/open1418871189839.html)
+
+[Android - 实现图片圆角显示的几种方式](http://gavinliu.cn/2016/04/12/Android-%E5%AE%9E%E7%8E%B0%E5%9B%BE%E7%89%87%E5%9C%86%E8%A7%92%E6%98%BE%E7%A4%BA%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F/index.html)
+
+## 打包相关
+[Android 项目利用 Android Studio 和 Gradle 打包多版本APK](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0615/3046.html)
+
+[Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
+
+[android AndFix--热补丁框架](http://blog.csdn.net/elinavampire/article/details/50261783)
+
 欢迎大家关注微信公众账号,名称:爱上Android ，微信搜索likeDev,或者扫码：
 
 ![爱上Android,微信号:likeDev](http://upload-images.jianshu.io/upload_images/1132780-b4c9d0d063ff8713.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
